@@ -12,3 +12,6 @@ Hernoem het bestand backend/config.example.php naar config.php en vul jouw eigen
 
 ## De controllers
 Net als mappen, maak je voor iedere soort acties een nieuwe controller aan. Bijvoorbeeld: authController voor registreren/inloggen, matchController, etc...
+
+# Uitlegvideo
+https://youtu.be/MHV7IBXD3gs
